@@ -1,6 +1,7 @@
 http://apt.25mao.com/
 http://apt.htv123.com/
 http://aquawu.github.io/igg/
+http://b4db1r3.github.io/d3vr3p0/
 http://global.niceios.com/
 http://limneos.net/repo/
 http://repo.co.kr/
