@@ -6,6 +6,7 @@ https://lenglengyu.com/
 https://repo.cydiabc.top/
 https://akusio.github.io/
 https://repo.alexia.lol/
+https://apt.alfhaily.me/
 https://alias20.gitlab.io/apt/
 https://repo.anamy.gay/
 https://apt.cydia.pro/
@@ -22,6 +23,7 @@ https://cydiageek.yourepo.com/
 https://apt.cydiakk.com/
 https://repo.cypwn.xyz/
 https://dcsyhi1998.github.io/
+https://dekotas.org/
 https://dhinakg.github.io/repo/
 https://dtcalabro.github.io/repo/
 https://dxcool223-repo.github.io/repo/
@@ -30,9 +32,9 @@ https://ellekit.space/
 https://nahtedetihw.github.io/
 https://apt.fouadraheb.com/
 https://frcoal.cfd/
-https://apt.geometricsoftware.se/
 https://repo.igerman.cc/
 https://ginsu.dev/repo/
+https://hacx.org/repo/
 https://havoc.app/
 https://i0s-tweak3r-betas.yourepo.com/
 https://apt.iarrays.com/
@@ -44,12 +46,17 @@ https://repo.icrazeios.com/
 http://aquawu.github.io/igg/
 https://repo.ikghd.me/
 https://iosgods.com/repo/
+https://igamegod.app/repo/
+https://iotatweak.com/
 https://ib-soft.net/cydia/beta/
 https://ib-soft.net/repo/beta/
 https://ib-soft.net/cydia/
 https://ib-soft.net/repo/
 https://ios.jjolano.me/
+http://johnnyb186.yourepo.com/
+http://repo.joshuawhe.online/
 https://julio.hackyouriphone.org/
+https://junesiphone.com/supersecret/
 https://cydia.akemi.ai/
 https://repo.keycap.one/
 https://kingpuffdaddi.github.io/
@@ -68,6 +75,7 @@ https://miticollo.github.io/repos/my/
 https://nathan4s.lol/repo/
 https://jailrepo.initnil.com/
 https://invalidunit.github.io/netskao-archive/
+https://siieo.github.io/
 http://global.niceios.com/
 https://repo.niceios.com/
 https://nj174.github.io/
@@ -82,9 +90,11 @@ http://apt.curtin.top/
 https://poomsmart.github.io/repo/
 https://apt.procurs.us/
 https://cydia.rob311.com/repo/
+https://roothide.github.io/
 https://repo.getsileo.app/
 https://skypain.github.io/repo/
 https://0xilis.github.io/rootless/
+https://sourcelocation.github.io/repo/
 https://sparkdev.me/
 https://www.sparkdev.me/
 https://repo.staturnz.com/
@@ -98,10 +108,12 @@ https://troppp.github.io/litten-repo-mirror/
 http://repo.thuthuatjb.com/
 https://tweakhub.github.io/
 https://apt.uar.no/
+https://udevsharold.github.io/repo/
 https://uz-ra.github.io/
 https://wilsonthewolf.github.io/repo/
 https://zhuxinlang.github.io/
 https://www.yourepo.com/
+https://yourepo.com/
 https://getzbra.com/repo/
 https://invalidunit.github.io/repo/
 https://invalidunit.github.io/repo2/
