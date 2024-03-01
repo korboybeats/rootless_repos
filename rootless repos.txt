@@ -90,7 +90,6 @@ http://apt.curtin.top/
 https://poomsmart.github.io/repo/
 https://apt.procurs.us/
 https://cydia.rob311.com/repo/
-https://roothide.github.io/
 https://repo.getsileo.app/
 https://skypain.github.io/repo/
 https://0xilis.github.io/rootless/
