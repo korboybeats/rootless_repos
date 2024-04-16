@@ -1,5 +1,6 @@
 https://repo.cypwn.xyz/
 https://wwg135.github.io/
+https://rootless.zq666.eu.org/
 https://0xkuj.yourepo.com/
 https://ali7assan.com/
 https://lenglengyu.com/
@@ -77,11 +78,13 @@ http://limneos.net/repo/
 https://34306.github.io/
 https://lizynz.github.io/
 https://luki120.github.io/
+https://memoose.github.io/lunaire/
 https://lzsxcl.github.io/repo/
 https://mrepo.org/
 https://maxiwee.de/
 http://repo.co.kr/
 https://michaelmelita1.github.io/
+https://miki-fp.github.io/repo/
 https://miro92.com/repo/
 https://repo.misty.moe/apt/
 https://miticollo.github.io/repos/my/
@@ -94,6 +97,7 @@ https://siieo.github.io/
 http://global.niceios.com/
 https://repo.niceios.com/
 https://repo.nicho1as.dev/
+http://cydia.nixuge.me/
 https://nj174.github.io/
 https://nowisdev.github.io/
 https://repo.onyxia.co/
@@ -102,10 +106,12 @@ https://p2kdev.github.io/repo/
 https://paisseon.github.io/
 https://repo.palera.in/
 https://www.2escustomservices.com/rootless/
+https://repo.pixelomer.com/
 http://apt.curtin.top/
 https://repo.ploosh.dev/
 https://poomsmart.github.io/repo/
 https://apt.procurs.us/
+https://lrdsnow.github.io/purepkg/
 https://unclutter.anamy.gay/
 https://cydia.rob311.com/repo/
 https://sezo.app/
@@ -120,6 +126,7 @@ https://repo.staturnz.com/
 https://stemgrade.github.io/
 https://sudo9000.github.io/
 https://sugiuta.github.io/repo/
+https://ugly-soul.github.io/repo/
 http://apt.sutuplus.com/
 https://itechxdev.github.io/
 https://teslaman3092.github.io/repo/
